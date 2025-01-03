@@ -26,6 +26,12 @@ const TodoForm = () => {
           value={inputValue.content}
           onChange={handleInputForm}
         />
+        ////
+        <input
+          type="text"
+          value={inputValue.content}
+          onChange={handleInputForm}
+        />
         <button type="submit">Add Task</button>
       </form>
     </>
