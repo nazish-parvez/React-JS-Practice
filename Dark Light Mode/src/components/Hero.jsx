@@ -20,7 +20,7 @@ const Hero = () => {
         ThemeData.theme === "dark" ? "text-white" : "text-black"
       }`}
     >
-      Hello I am using React JS {ThemeData.theme === "dark" ? }
+      Hello I am using React JS {ThemeData.theme === "dark" ? "🌙" : "☀️"}
     </p>
 
     <Button />
