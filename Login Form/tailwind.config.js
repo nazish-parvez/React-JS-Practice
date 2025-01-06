@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        Ubuntu: ["Ubuntu"],
+        Ubuntu: ["Ubuntu","serif"],
         Poppins: ["Poppins"],
       },
     },
