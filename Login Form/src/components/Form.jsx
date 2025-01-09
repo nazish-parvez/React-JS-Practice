@@ -60,14 +60,14 @@ const Form = () => {
             </div>
 
             <button className="bg-black w-full text-white py-3 rounded-md mb-4">
-              Create account
+              Create Account
             </button>
           </form>
 
           <div>
             <p className="text-sm text-gray-500 text-center">
               Already have an account?
-              <span className="text-black underline">Log in</span>
+              <span className="text-black underline">Log In</span>
             </p>
           </div>
         </div>
