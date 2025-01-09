@@ -2,7 +2,7 @@ import React from "react";
 import { FcGoogle } from "react-icons/fc";
 import { FaApple } from "react-icons/fa";
 import { FaSquareXTwitter } from "react-icons/fa6";
-import bg from "../assets/bg.png";
+
 import bg1 from "../assets/bg1.jpg";
 
 const Form = () => {
