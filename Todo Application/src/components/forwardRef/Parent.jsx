@@ -7,8 +7,8 @@ const Parent = () => {
 
   const handleFormSubmit = (e) => {
     e.preventDefault();
-    console.log("Username:", username.current.value);
-    console.log("Password:", password.current.value);
+    console.log(`Username: ${username.current.value}`);
+    console.log(`Password: ${password.current.value}`);
   };
   return (
     <>

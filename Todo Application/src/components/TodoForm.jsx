@@ -27,8 +27,6 @@ const TodoForm = () => {
           onChange={handleInputForm}
         />
         <button type="submit">Add Task</button>
-        <button type="submit">Add Task 1</button>
-        <button type="submit">Add Task 2</button>
       </form>
     </>
   );
