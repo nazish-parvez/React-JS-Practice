@@ -13,6 +13,14 @@ const App = () => {
       path: "/about",
       element: <About />,
     },
+    {
+      path: "/movies",
+      element: <Movies />,
+    },
+    {
+      path: "/contact",
+      element: <Contact />,
+    },
   ]);
   return <RouterProvider router={router} />;
 };
