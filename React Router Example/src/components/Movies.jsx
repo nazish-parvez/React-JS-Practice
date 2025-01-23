@@ -1,14 +1,14 @@
-import React from 'react'
+import React from "react";
 
 const Movies = () => {
   return (
     <main>
-      Movie Data
-      <h1>Title</h1>
+      <h1>Movie Data</h1>
+      <p>Title</p>
       <p>Body</p>
       <p>Rating</p>
     </main>
-  )
-}
+  );
+};
 
-export default Movies
+export default Movies;
