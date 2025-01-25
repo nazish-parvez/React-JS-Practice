@@ -4,7 +4,7 @@ import TodoForm from "./TodoForm";
 const TodoMain = () => {
   return (
     <>
-      TodoMain List
+      TodoMain
       <TodoForm />
     </>
   );
