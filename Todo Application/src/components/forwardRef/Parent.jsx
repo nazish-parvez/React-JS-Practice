@@ -15,7 +15,7 @@ const Parent = () => {
       <form onSubmit={handleFormSubmit}>
         <Child ref={username} inputLabel="Username" />
         <Child ref={password} inputLabel="Password" />
-        <button>Submit</button>
+        <button>Add Task</button>
       </form>
     </>
   );
