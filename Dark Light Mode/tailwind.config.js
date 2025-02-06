@@ -4,6 +4,7 @@ export default {
   theme: {
     extend: {
       backgroundColor: "#222222",
+      fontFamily: "Anton",
     },
   },
   plugins: [],
