@@ -18,6 +18,7 @@ const Parent = () => {
         <div>
           <button>Add Task</button>
           <button>Update Task</button>
+          <button>Update Task</button>
         </div>
       </form>
     </>
