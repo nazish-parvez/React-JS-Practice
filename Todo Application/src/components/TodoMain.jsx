@@ -5,6 +5,7 @@ const TodoMain = () => {
   return (
     <>
       <TodoForm />
+      <TodoForm />
     </>
   );
 };
