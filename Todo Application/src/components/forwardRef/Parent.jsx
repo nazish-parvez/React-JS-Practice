@@ -17,6 +17,7 @@ const Parent = () => {
         <Child ref={password} inputLabel="Password" />
         <div>
           <button>Add Task</button>
+          <button>Add Task</button>
         </div>
       </form>
     </>
