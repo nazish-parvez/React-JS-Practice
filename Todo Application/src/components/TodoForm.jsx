@@ -29,6 +29,7 @@ const TodoForm = () => {
         <button type="submit">Add Task</button>
         <button type="submit">Remove Task</button>
         <button type="submit">Update Task</button>
+        <button type="submit">Update Task</button>
       </form>
     </>
   );
